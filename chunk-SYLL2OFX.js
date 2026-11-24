@@ -1,1 +1,0 @@
-import{ga as e}from"./chunk-RURBOBNN.js";var a=class r{isErrorState(t){return!!t&&t.invalid&&(t.dirty||t.touched)}static \u0275fac=function(i){return new(i||r)};static \u0275prov=e({token:r,factory:r.\u0275fac})},o=class{constructor(t){this.extra=t}extra;isErrorState(t){return!!t&&t.invalid&&(t.dirty||t.touched)||this.extra()}};export{a,o as b};
